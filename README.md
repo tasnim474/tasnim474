@@ -22,14 +22,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 CSE Student
-- 💻 Learning C++ and Java
-- 🌐 Exploring HTML, CSS and Web Development
-- 🧠 Interested in Problem Solving
-- 🚀 Building my personal portfolio
-- 🤝 Open to learning and collaborating on projects
+-  CSE Student
+-  Learning C++ and Java
+-  Exploring HTML, CSS and Web Development
+-  Interested in Problem Solving
+-  Building my personal portfolio
+-  Open to learning and collaborating on projects
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,html,css,git,github,vscode" alt="Skills and tools" />
