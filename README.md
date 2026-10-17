@@ -2,4 +2,4 @@
 
 ### CSE Student | Aspiring Software Developer
 
-![My GitHub Profile Design](Neon Terminal GitHub Developer Profile.png)
+![My GitHub Profile Design]( Neon Terminal GitHub Developer Profile.png )
